@@ -1,0 +1,39 @@
+{
+  "name": "cordovahook-copy-graphics",
+  "description": "Copy icons and splash screens to correct places from a single folder within your project root",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mihhail-lapushkin/cordovahook-copy-graphics",
+  "author": {
+    "name": "Mihhail Lapushkin",
+    "email": "miha@smail.ee",
+    "url": "http://www.linkedin.com/in/mihhail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mihhail-lapushkin/cordovahook-copy-graphics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mihhail-lapushkin/cordovahook-copy-graphics/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/mihhail-lapushkin/cordovahook-copy-graphics/blob/master/LICENSE-MIT"
+  }],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "fs-extra": "~0.13.0",
+    "node-xml-lite": "~0.0.3"
+  },
+  "keywords": [
+    "cordovahook",
+    "cordova",
+    "icons",
+    "splashscreens",
+    "splashes",
+    "icon",
+    "splashscreen",
+    "splash"
+  ]
+}

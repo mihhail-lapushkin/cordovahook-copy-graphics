@@ -24,5 +24,7 @@ Currently, supports only `android` and `ios` platforms.
 Refer to [howtouse](https://github.com/mihhail-lapushkin/cordovahook-copy-graphics/tree/master/howtouse) folder to get an understanding of how to setup this hook in your project.
 
 ## Release History
+ * **0.2.0** / 2015-02-08
+   * Updated dependencies.
  * **0.1.0** / 2014-12-26
    * First version.
